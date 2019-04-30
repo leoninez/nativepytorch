@@ -17,3 +17,6 @@ cmake-build-debug
 
 # BUILD
 build/
+
+# python
+__pycache__
